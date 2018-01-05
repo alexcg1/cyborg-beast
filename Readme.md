@@ -2,6 +2,7 @@ This is a modified version of the [Cyborg Beast](http://cyborgbeast.org/) prosth
 
 1. Printing out Chicago fasteners (since we can't find them where we are), based on [NewtonRob's design from Thingiverse](https://www.thingiverse.com/thing:266673)
 2. Removing some unused files, such as different versions of gauntlet
+3. Use a "cooler" version of the gauntlet, which has slots for velcro
 
 Note: The Chicago fasteners are scaled for a 140% scale hand (i.e. sized for a 16-year-old, according to the sizing chart). Be sure to modify the scad file to suit your hand
 
