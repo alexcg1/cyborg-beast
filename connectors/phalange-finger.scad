@@ -3,7 +3,7 @@ HeadHeight=2; // [1,1.5,2,2.5,3]
 HeadDiameter=10; //[7:15]
 SleeveLength=10; //[1:100]
 SleeveOutterDiameter=4.7;//[5.00,5.08,6,7,8,9,10]
-Play=0.1;// [0.0,0.1,0.2,0.3,0.4,0.5]
+Play=0;// [0.0,0.1,0.2,0.3,0.4,0.5]
 
 HeadRadius=HeadDiameter/2;
 SleeveOutterRadius=SleeveOutterDiameter/2;
